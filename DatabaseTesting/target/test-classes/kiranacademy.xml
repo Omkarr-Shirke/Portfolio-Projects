@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Student_Suite">
+    <test name="MyTest">
+        <classes>
+            <class name="com.tka.kiranacademy.omkar"/>
+             <class name="com.tka.kiranacademy.LogoutTest"/>
+        </classes>
+    </test>
+</suite>
